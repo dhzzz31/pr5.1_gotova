@@ -45,9 +45,9 @@
             // 
             // btnCalc
             // 
-            this.btnCalc.Location = new System.Drawing.Point(113, 295);
+            this.btnCalc.Location = new System.Drawing.Point(88, 351);
             this.btnCalc.Name = "btnCalc";
-            this.btnCalc.Size = new System.Drawing.Size(75, 23);
+            this.btnCalc.Size = new System.Drawing.Size(100, 23);
             this.btnCalc.TabIndex = 0;
             this.btnCalc.Text = "calculate z(x,y)";
             this.btnCalc.UseVisualStyleBackColor = true;
@@ -147,9 +147,9 @@
             // lstResult
             // 
             this.lstResult.FormattingEnabled = true;
-            this.lstResult.Location = new System.Drawing.Point(308, 223);
+            this.lstResult.Location = new System.Drawing.Point(285, 223);
             this.lstResult.Name = "lstResult";
-            this.lstResult.Size = new System.Drawing.Size(120, 95);
+            this.lstResult.Size = new System.Drawing.Size(123, 160);
             this.lstResult.TabIndex = 12;
             // 
             // Form1
@@ -171,7 +171,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnCalc);
             this.Name = "Form1";
-            this.Text = "to";
+            this.Text = "form loops";
             this.ResumeLayout(false);
             this.PerformLayout();
 
